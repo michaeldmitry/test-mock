@@ -1,3 +1,5 @@
+[!NOTE]  
+Hello
 # Synopsis [![Build Status](https://travis-ci.org/jnthn/test-mock.svg?branch=master)](https://travis-ci.org/jnthn/test-mock)
 
     use Test;
